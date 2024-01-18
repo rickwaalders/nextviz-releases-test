@@ -1,8 +1,8 @@
-# Snapweave
+# Peakflow
 
-This is the releases repo for Snapweave
+This is the releases repo for Peakflow
 
-[https://snapweave.dev](https://snapweave.dev)
+[https://peakflow.dev](https://peakflow.dev)
 
 ----
 
